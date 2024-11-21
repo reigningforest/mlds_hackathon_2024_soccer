@@ -22,8 +22,9 @@ You will need to have python3 and anaconda installed. If these are not installed
 
 ### To obtain the data, you will need
 - All necessary data files can be downloaded from this link: https://drive.google.com/file/d/11uGTK2-DmquGXKvqoUxr0KA8ZDj8-wpV/view?usp=sharing
+- Note: Please ensure that the folder structure is not changed or the code will not run
 
-### Project Folder Structure
+### File Structure (please run in this order)
 - extract_data_from_pdfs.ipynb   # Jupyter Notebook for extracting data from PDFs
 - extract_player_data.ipynb      # Jupyter Notebook for analyzing player data
 - Player_Substitution.ipynb      # Jypyter Notebook for analysing substition player 
