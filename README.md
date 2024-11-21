@@ -12,5 +12,8 @@ https://www.anaconda.com/download/
 
 Run
 `conda create -n hackathon2024env`
+
 `conda activate hackathon2024env`
+
 `pip install -r requirements.txt`
+
