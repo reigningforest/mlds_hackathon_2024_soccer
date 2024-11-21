@@ -42,6 +42,11 @@ You will need to have python3 and anaconda installed. If these are not installed
 - Open and run (or run in terminal) `initial_lineup_generator.py`
 - Open `Player_Substitution.ipynb` and run all code chunks
 
-
+## Run AI Chat Bot
+- Make sure you are in our directory.
+- Get OpenAI API Key for GPT 4o-mini.
+- Write this command: export OPENAI_API_KEY="your-key-here"
+- For now, use this temporary key: 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
+- Open and run tedlasso.py. Command: python tedlasso.py
 
 
