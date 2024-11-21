@@ -11,7 +11,7 @@ from dotenv import load_dotenv  # Optional: For loading environment variables fr
 # MIGRATE OPENAI: grit apply openai
 
 # Set OpenAI API Key
-# OpenAI.api_key = "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"
+# OpenAI.api_key = "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"
 load_dotenv()
 OpenAI.api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI()
