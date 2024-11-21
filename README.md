@@ -1,13 +1,27 @@
-# MLDS Hackathon Team: Messi Data
+# Messi Data’s Playbook: Optimizing Lineups and Substitutions with AI
 
-Team Members: John He, Daeun Ji, Teddy Debreu, and Kavya Bhat
+Team Messi Data: John He, Daeun Ji, Teddy Debreu, and Kavya Bhat
 
-Hello, thank you for checking out our repository!
-
-## Messi Data’s Playbook: Optimizing Lineups and Substitutions with AI
+### Purpose
 This project focuses on analyzing soccer match data and developing an AI-powered lineup recommendation and substitution system.
 
 ---
+
+### File Structure
+- `README.md`                      # Project description and guide
+- `requirements.txt`               # List of required packages for the project
+- `extract_data_from_pdfs.ipynb`   # Jupyter Notebook for extracting data from PDFs
+- `extract_player_data.ipynb`      # Jupyter Notebook for analyzing player data
+- `initial_lineup_generator.py`    # Python script for generating initial lineups
+- `Player_Substitution.ipynb`      # Jypyter Notebook for analysing substition player 
+
+---
+
+# How to use our code
+## Data Location
+- All necessary data files can be downloaded from this link: https://drive.google.com/file/d/11uGTK2-DmquGXKvqoUxr0KA8ZDj8-wpV/view?usp=sharing
+- Note: Please ensure that the folder structure is not changed or the code will not run
+
 ## Virtual Environment Set Up
 You will need to have python3 and anaconda installed. If these are not installed, please install them.
 - https://www.python.org/downloads/
@@ -20,14 +34,14 @@ You will need to have python3 and anaconda installed. If these are not installed
 
 `pip install -r requirements.txt`
 
-### To obtain the data, you will need
-- All necessary data files can be downloaded from this link: https://drive.google.com/file/d/11uGTK2-DmquGXKvqoUxr0KA8ZDj8-wpV/view?usp=sharing
-- Note: Please ensure that the folder structure is not changed or the code will not run
+## Generate cleaned data
+- Open `extract_data_from_pdfs.ipynb` and run all code chunks
+- Open `extract_player_data.ipynb` and run all code chunks
 
-### File Structure (please run in this order)
-- extract_data_from_pdfs.ipynb   # Jupyter Notebook for extracting data from PDFs
-- extract_player_data.ipynb      # Jupyter Notebook for analyzing player data
-- Player_Substitution.ipynb      # Jypyter Notebook for analysing substition player 
-- initial_lineup_generator.py    # Python script for generating initial lineups
-- requirements.txt               # List of required packages for the project
-- README.md                      # Project description and guide
+## Run ML models
+- Open and run (or run in terminal) `initial_lineup_generator.py`
+- Open `Player_Substitution.ipynb` and run all code chunks
+
+
+
+
