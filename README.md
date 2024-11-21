@@ -10,7 +10,7 @@ You will need to have python3 and anaconda installed. If these are not installed
 - https://www.python.org/downloads/
 - https://www.anaconda.com/download/
 
-Run
+### Run
 `conda create -n hackathon2024env`
 
 `conda activate hackathon2024env`
