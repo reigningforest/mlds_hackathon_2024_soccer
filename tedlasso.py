@@ -12,7 +12,7 @@ import numpy as np
 
 # Set OpenAI API Key
 # OpenAI.api_key = "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"
-
+load_dotenv()
 OpenAI.api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI()
 
