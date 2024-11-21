@@ -32,6 +32,8 @@ You will need to have python3 and anaconda installed. If these are not installed
 
 `conda activate hackathon2024env`
 
+`conda install pip`
+
 `pip install -r requirements.txt`
 
 ## Generate cleaned data
@@ -45,7 +47,7 @@ You will need to have python3 and anaconda installed. If these are not installed
 ## Run AI Chat Bot
 - Make sure you are in our directory.
 - Get OpenAI API Key for GPT 4o-mini.
-- Write this command: export OPENAI_API_KEY="your-key-here"
+- Open terminal and write this command: export OPENAI_API_KEY="your-key-here"
 - For now, use this temporary key: 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
 - Open and run tedlasso.py. Command: python tedlasso.py
 
