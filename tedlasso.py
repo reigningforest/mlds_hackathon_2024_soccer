@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 # import faiss
 
-# from dotenv import load_dotenv  # Optional: For loading environment variables from a .env file
+from dotenv import load_dotenv  # Optional: For loading environment variables from a .env file
 
 # ACTIVATE ENVIRONMENT: source coaching-assistant-env/bin/activate
 # Put grit into bin of environment: https://github.com/getgrit/gritql/releases/latest/download/grit-aarch64-apple-darwin.tar.gz
