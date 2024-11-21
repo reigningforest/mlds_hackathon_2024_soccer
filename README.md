@@ -4,6 +4,9 @@ Team Members: John He, Daeun Ji, Teddy Debreu, and Kavya Bhat
 
 Hello, thank you for checking out our repository!
 
+## Messi Data’s Playbook: Optimizing Lineups and Substitutions with AI
+This project focuses on analyzing soccer match data and developing an AI-powered lineup recommendation and substitution system.
+
 ---
 ## Virtual Environment Set Up
 You will need to have python3 and anaconda installed. If these are not installed, please install them.
