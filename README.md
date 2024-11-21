@@ -21,7 +21,7 @@ You will need to have python3 and anaconda installed. If these are not installed
 `pip install -r requirements.txt`
 
 ### To obtain the data, you will need
-- 
+- All necessary data files can be downloaded from this link: https://drive.google.com/file/d/11uGTK2-DmquGXKvqoUxr0KA8ZDj8-wpV/view?usp=sharing
 
 ### Project Folder Structure
 - extract_data_from_pdfs.ipynb   # Jupyter Notebook for extracting data from PDFs
