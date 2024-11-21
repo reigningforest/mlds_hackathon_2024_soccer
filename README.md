@@ -32,7 +32,7 @@ You will need to have python3 and anaconda installed. If these are not installed
 - https://www.python.org/downloads/
 - https://www.anaconda.com/download/
 
-### Open Terminal and the commands below to install the correct packages to run our code
+### Open Terminal and run the commands below to install the correct packages to run our code
 `conda create -n hackathon2024env`
 
 `conda activate hackathon2024env`
