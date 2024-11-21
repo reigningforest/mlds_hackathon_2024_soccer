@@ -164,7 +164,6 @@ def predict_optimal_lineup(df_test, model, scaler, formation='4-3-3', features=P
         
         lineup[position] = top_players
         selected_players.update(top_players)  # Add selected players to the exclusion set
-        print(top_players)
 
     return {'lineup': lineup,
         'classification_report': classification_report(y_test, y_pred),
