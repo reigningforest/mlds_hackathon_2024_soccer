@@ -19,3 +19,10 @@ You will need to have python3 and anaconda installed. If these are not installed
 
 ### To obtain the data, you will need
 - 
+
+### Project Folder Structure
+├── extract_data_from_pdfs.ipynb   # Jupyter Notebook for extracting data from PDFs
+├── extract_player_data.ipynb      # Jupyter Notebook for analyzing player data
+├── initial_lineup_generator.py    # Python script for generating initial lineups
+├── requirements.txt               # List of required packages for the project
+├── README.md                      # Project description and guide
