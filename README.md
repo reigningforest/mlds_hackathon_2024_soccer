@@ -18,9 +18,14 @@ This project focuses on analyzing soccer match data and developing an AI-powered
 ---
 
 # How to use our code
+## Clone Repository
+- Clone our repository into a folder. You will be working within this folder.
+
 ## Data Location
 - All necessary data files can be downloaded from this link: https://drive.google.com/file/d/11uGTK2-DmquGXKvqoUxr0KA8ZDj8-wpV/view?usp=sharing
-- Note: Please ensure that the folder structure is not changed or the code will not run
+- Download and unzip the data
+- Please drag folders: `match-reports`, `player-data`, and `team-data` into the cloned repository folder
+- Note: Please ensure that you do not drag the parent folder `Hackathon Data` into the cloned repository folder
 
 ## Virtual Environment Set Up
 You will need to have python3 and anaconda installed. If these are not installed, please install them.
