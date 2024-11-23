@@ -54,7 +54,6 @@ You will need to have python3 and anaconda installed. If these are not installed
 - Get OpenAI API Key for GPT 4o-mini.
 - ON MAC-Open terminal and write this command: `export OPENAI_API_KEY="your-key-here"`
 - ON PC-Open Powershell and write this command: `$ENV:OPENAI_API_KEY="your-key-here"`
-- KEY: "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"
 - Run Command: `python tedlasso.py` in terminal
 
 
